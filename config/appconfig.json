@@ -1,0 +1,9 @@
+{
+    "repository": {
+        "indexfile": "./data/dataidx.json",
+        "mongodb": "ctopen",
+        "mongoCollection": "ctopen_collection",
+        "mongoURL": "mongodb://localhost:27017/ctopen?connectTimeoutMS=25000",
+        "datadirectory": "/Users/edwardfoley/ctopendata"
+    }
+}
